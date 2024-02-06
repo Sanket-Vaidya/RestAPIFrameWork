@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-06T09:54:47 IST" name="Suite" finished-at="2024-02-06T09:54:55 IST" duration-ms="7937">
+  <suite started-at="2024-02-06T16:10:04 IST" name="Suite" finished-at="2024-02-06T16:10:13 IST" duration-ms="8612">
     <groups>
     </groups>
-    <test started-at="2024-02-06T09:54:47 IST" name="Test" finished-at="2024-02-06T09:54:55 IST" duration-ms="7937">
+    <test started-at="2024-02-06T16:10:04 IST" name="Test" finished-at="2024-02-06T16:10:13 IST" duration-ms="8612">
       <class name="api.test.TC_003_DataProviderTest">
-        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T09:54:49 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T09:54:49 IST" duration-ms="17" status="PASS">
+        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T16:10:06 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T16:10:06 IST" duration-ms="19" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,7 +48,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetData -->
-        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T09:54:49 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T09:54:49 IST" duration-ms="10" status="PASS">
+        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T16:10:06 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T16:10:06 IST" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -89,7 +89,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetData -->
-        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T09:54:49 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T09:54:49 IST" duration-ms="7" status="PASS">
+        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T16:10:06 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T16:10:06 IST" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -130,7 +130,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetData -->
-        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T09:54:49 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T09:54:49 IST" duration-ms="8" status="PASS">
+        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T16:10:06 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T16:10:06 IST" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -171,7 +171,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetData -->
-        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T09:54:49 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T09:54:49 IST" duration-ms="6" status="PASS">
+        <test-method signature="SetData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T16:10:06 IST" name="SetData" data-provider="Data" finished-at="2024-02-06T16:10:06 IST" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -212,7 +212,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetData -->
-        <test-method signature="PostUser()[pri:2, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T09:54:49 IST" name="PostUser" finished-at="2024-02-06T09:54:55 IST" duration-ms="6724" status="PASS">
+        <test-method signature="PostUser()[pri:2, instance:api.test.TC_003_DataProviderTest@654f0d9c]" started-at="2024-02-06T16:10:06 IST" name="PostUser" finished-at="2024-02-06T16:10:13 IST" duration-ms="7075" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PostUser -->
